@@ -1,0 +1,1101 @@
+19:30:35 From Hitesh Sharma to Learner success manager(direct message):
+	shall we start?
+19:30:55 From Hitesh Sharma to Learner success manager(direct message):
+	make me co-host
+19:31:48 From SANJEEV KUMAR to Everyone:
+	clear
+19:31:51 From Sathish Kumar P to Everyone:
+	Yes
+19:31:53 From Sheshanjan Chityala . to Everyone:
+	Yes
+19:31:56 From Sameer.shembavnekar . to Everyone:
+	yes
+19:31:56 From Mahendra Varma to Everyone:
+	yes
+19:31:57 From Nitin Galale to Everyone:
+	Yes
+19:31:57 From Arun Kumar to Everyone:
+	audible
+19:31:58 From Krishnakanth Anasala to Everyone:
+	Hi
+19:32:00 From shishir khandelia to Everyone:
+	Hi All
+19:32:01 From Nithin Kundukattil to Everyone:
+	yes
+19:32:03 From knoah k to Everyone:
+	yes
+19:32:04 From shishir khandelia to Everyone:
+	Yes, aidible
+19:32:06 From David. to Everyone:
+	Audible
+19:32:06 From Himani Pandey to Everyone:
+	Hi
+19:32:06 From Praful Parmar to Everyone:
+	Yes
+19:32:08 From SHAIK RIZAKATH ALI to Everyone:
+	hi all
+19:32:16 From Nikita Tupsoundar to Everyone:
+	yes
+19:32:18 From Md Abu Nasar to Everyone:
+	yes
+19:32:53 From Krishnakanth Anasala to Everyone:
+	Good evening Hitesh
+19:32:57 From Sathish Kumar P to Everyone:
+	Good Evening Hitesh
+19:36:33 From Luke Krangar to Everyone:
+	HI Sharma,
+19:36:48 From Luke Krangar to Everyone:
+	Sorry, I'm not hearing anything
+19:37:15 From Hitesh Sharma to Everyone:
+	Hi Luke, Please rejoin. it will solve
+19:37:17 From Ekan David to Everyone:
+	Hi
+19:37:25 From Luke Krangar to Everyone:
+	Ok, thanks!
+19:37:41 From Luke Krangar to Everyone:
+	I can hear you now, thanks
+19:37:55 From Ekan David to Everyone:
+	the shared screen is not visible on my browser
+19:38:05 From kalpana singh to Everyone:
+	do we need to start lab now??
+19:38:19 From Manoj S to Everyone:
+	Hi Sir
+19:38:51 From Vaibhav Thasale to Everyone:
+	will it work with safari?
+19:39:44 From shishir khandelia to Everyone:
+	that is one amazing profile!
+19:41:21 From shishir khandelia to Everyone:
+	woah
+19:46:52 From Ekan David to Everyone:
+	Hi Sharma, i am still not able to see your screen
+19:46:58 From Nitin Jena to Everyone:
+	Hi can you please repeat the order of course. it would be better to clear path. Thanx :)
+19:47:08 From Luke Krangar to Everyone:
+	Dr. Sharma, what has been your experience with students with no computer background, that did this course?
+19:47:30 From Duraikesuvaran Rajamurthy to Everyone:
+	Replying to "Hi Sharma, i am st..."
+	
+	you may have to rejoin , i can see his screen
+19:47:52 From Ekan David to Everyone:
+	ok
+19:48:19 From Seeta Chandkote to Everyone:
+	hello sir can you please explain again how to start system for lab ?
+19:48:26 From Yusufmcse1 Yusufmcse1 to Everyone:
+	i am new to devops so do i need to be aware of any codes?
+19:48:35 From Seeta Chandkote to Everyone:
+	ok sir
+19:49:24 From Yusufmcse1 Yusufmcse1 to Everyone:
+	thankyou sir
+19:49:27 From Nitin Jena to Everyone:
+	Hi can you please repeat the order of course. it would be better to clear path. Thanx :)
+19:50:12 From Md Abu Nasar to Everyone:
+	ok sir
+19:50:34 From Arun Kumar to Everyone:
+	Is this course include any self learning videos in LMS portal?
+19:51:05 From Duraikesuvaran Rajamurthy to Everyone:
+	Hi Hitesh , at what time we will break for dinner , since we are connecting at 7.30 PM ,hence we will be prepared
+19:51:28 From Duraikesuvaran Rajamurthy to Everyone:
+	Thanks
+19:51:37 From Manoj S to Everyone:
+	Hi Sir,
+19:51:42 From Vipul Kashiv to Everyone:
+	if i stuck in practice lab , so where i can contact you between monday to friday . .
+19:52:19 From Vipul Kashiv to Everyone:
+	ok sir
+19:52:40 From SHAIK RIZAKATH ALI to Everyone:
+	do we get the video record of this  session
+19:53:02 From David. to Everyone:
+	LMS
+19:53:08 From Manoj S to Everyone:
+	Does will you teach us devops services utiliized on cloud (AWS & Azure)
+19:54:43 From David. to Everyone:
+	Intelli Idea
+19:56:03 From David. to Everyone:
+	TestNG
+19:58:58 From Md Abu Nasar to Everyone:
+	and what about jankins is it needed or not sir
+20:00:24 From David. to Everyone:
+	Infrastructure as Code
+20:01:00 From David. to Everyone:
+	Monitoring
+20:01:19 From Manoj S to Everyone:
+	grafana
+20:02:02 From Manisha Lakhanpal to Everyone:
+	what is difference between an executable and an image?
+20:02:38 From Richa Singh to Everyone:
+	Sir this we'll cover in these 9 sessions?
+20:02:59 From David. to Everyone:
+	It is a CI tool
+20:04:40 From Md Abu Nasar to Everyone:
+	ok sir
+20:05:16 From David. to Everyone:
+	Are we going to look at:
+	ArgoCD
+	Nagios
+	Puppet
+	GitAction
+	Redshift/K8
+	SonarQube/SonarCloud
+20:06:04 From Manisha Lakhanpal to Everyone:
+	thank you
+20:07:14 From Madhan.M Madhan.M to Everyone:
+	Hi sir what tool are we using for planning in the above picture?
+20:07:38 From Anirudha Kulkarni to Everyone:
+	Should I need to be aware of UNIX/LINUX before starting Devops?
+20:09:27 From Vipul Kashiv to Everyone:
+	we will cover all 11 tools . . ??
+20:11:23 From David. to Everyone:
+	Okay.
+20:11:56 From David. to Everyone:
+	k8- Orchestration tool
+20:12:13 From Manisha Lakhanpal to Everyone:
+	are we going to get these notes as well?
+20:13:22 From Manisha Lakhanpal to Everyone:
+	are you going to teach all these courses?
+20:13:30 From David. to Everyone:
+	Are you going to be with us all through this Master Course?
+20:13:55 From Luke Krangar to Everyone:
+	Which of these courses are recommended for students that don't have a computer background?
+20:14:31 From N Anandha to Everyone:
+	are all these tools covered in this bundle Devops mastery?
+20:14:46 From Yusufmcse1 Yusufmcse1 to Everyone:
+	do we need learn all these or better to have knowledge
+20:15:04 From David. to Everyone:
+	All are linux based
+20:15:39 From David. to Everyone:
+	Directory management
+20:16:22 From Anirudha Kulkarni to Everyone:
+	Thank You
+20:16:32 From Madhan.M Madhan.M to Everyone:
+	Hi sir what tool are we using for planning in the above picture?
+20:16:33 From Yusufmcse1 Yusufmcse1 to Everyone:
+	will be learning all rite from plannig to till release ?
+20:16:51 From Luke Krangar to Everyone:
+	My computer is Mac. With 95% of these tools being LINUX specific, how will I be able to use it?
+20:17:32 From Sameer.shembavnekar . to Everyone:
+	Which book we should refer for devops helpful from industry perspective?
+20:17:38 From David. to Everyone:
+	@Luke Krangar  All the better. Your system is unix based. So you are good to go.
+20:17:38 From David. to Everyone:
+	[This is an encrypted message]
+20:17:58 From Manivasagam S to Everyone:
+	required tools will you share link for downloading
+20:19:03 From Seeta Chandkote to Everyone:
+	we have 6 modules to complete how we can start modules simutaniusly to complete this course as soon as possible
+20:19:44 From Luke Krangar to Everyone:
+	Reacted to "@Luke Krangar  All..." with 👍
+20:21:00 From Sheshanjan Chityala . to Everyone:
+	Sir, I have 7 ears of experience in legacy mainframe systems, after completion of this course can I purely start on DevOPs and work and independly contribute to the organization..
+20:21:52 From Sameer.shembavnekar . to Everyone:
+	Few modules looks to be overlapping like ansible in my LMS ...
+20:22:38 From Pankaj Kumar to Everyone:
+	I have 16 years of experience in the Telecom domain, and I joined this course to transition into the DevOps domain. My expectation for this course is to cover more real-world use cases commonly encountered in the industry
+20:23:55 From Vipul Kashiv to Everyone:
+	windows machine configuration for best in devops work. .?
+20:25:11 From Richa Singh to Everyone:
+	Sir this equence is mentioned in ur sheet
+20:26:44 From Ravindra Singh to Everyone:
+	Will you provide an assignment during the class to perform in Lab?
+20:27:00 From David. to Everyone:
+	Replying to "windows machine co..."
+	
+	No. You can use any OS. it is a bit harder with windows especially older ones.
+20:27:08 From Ravindra Singh to Everyone:
+	okay
+20:31:44 From Mayur Shah to Everyone:
+	for the entire course, should we go with the local setup? I meant what about the next courses if they go with cloud then we will need to migrate from local to cloud
+20:33:10 From Richa Singh to Everyone:
+	any prerequisite in machine other than installation
+20:34:46 From Vaibhav Thasale to Everyone:
+	can I setup on Mac? or I need windows Machine?
+20:34:55 From Md Abu Nasar to Everyone:
+	i have 15 and 21 jdk is it ok sir
+20:35:16 From Md Abu Nasar to Everyone:
+	thanks
+20:35:23 From Vaibhav Thasale to Everyone:
+	Thanks
+20:37:31 From Hitesh Sharma to Everyone:
+	git --version
+20:37:33 From Vikas Kacholia to Everyone:
+	i already have git version 2.34.1.windows.1
+20:37:45 From Vikas Kacholia to Everyone:
+	is that ok ?
+20:38:20 From Manisha Lakhanpal to Everyone:
+	I have git version 2.36 installed already is it fine?
+20:38:59 From Manisha Lakhanpal to Everyone:
+	thank you
+20:41:57 From David. to Everyone:
+	All Linux commands run on git bash
+20:42:02 From Shaiksubh . to Everyone:
+	don
+20:42:03 From Praful Parmar to Everyone:
+	Done
+20:42:03 From Ravindra Singh to Everyone:
+	I have installed
+20:42:04 From K R Ranjan - to Everyone:
+	is it 32 bit or 64 bit?
+20:42:05 From SHAIK RIZAKATH ALI to Everyone:
+	👍
+20:42:06 From Shajad Ali Shaikh Kamruddin to Everyone:
+	Done
+20:42:07 From Seeta Chandkote to Everyone:
+	done
+20:42:08 From Vipul Kashiv to Everyone:
+	done
+20:42:08 From Sathish Kumar P to Everyone:
+	👍
+20:42:08 From Mahendra Varma to Everyone:
+	Done
+20:42:09 From Yusufmcse1 Yusufmcse1 to Everyone:
+	yes
+20:42:09 From Pawan Vanikar to Everyone:
+	done
+20:42:09 From Abhishek kadam to Everyone:
+	Done
+20:42:09 From Vivek Birje to Everyone:
+	Done
+20:42:11 From Shivam Singh to Everyone:
+	Done
+20:42:12 From Sandip Gunjavate to Everyone:
+	done
+20:42:13 From Sameer.shembavnekar . to Everyone:
+	I am not able to see master in terminal
+20:42:17 From Manisha Lakhanpal to Everyone:
+	done
+20:42:19 From Himani Pandey to Everyone:
+	done
+20:42:20 From Ashisha kumar Dash to Everyone:
+	👍
+20:42:23 From shishir khandelia to Everyone:
+	yes
+20:42:27 From Vaddi Rahul to Everyone:
+	Done
+20:42:29 From Pankaj Kumar to Everyone:
+	done
+20:42:30 From Krishnakanth Anasala to Everyone:
+	yes installed GIT
+20:42:30 From Luke Krangar to Everyone:
+	There are many options for Mac. Which one should I install?
+20:42:34 From Nitin Galale to Everyone:
+	👍
+20:42:35 From Madhan.M Madhan.M to Everyone:
+	Done
+20:42:35 From SANJEEV KUMAR to Everyone:
+	👍
+20:42:38 From kalpana singh to Everyone:
+	👍
+20:42:43 From Manideep Katakam to Everyone:
+	Done
+20:42:54 From Ekan David to Everyone:
+	done
+20:43:05 From Advaith Yeshodhar to Everyone:
+	👍
+20:43:06 From Nikita Tupsoundar to Everyone:
+	Done
+20:43:06 From David. to Everyone:
+	👍
+20:43:29 From Sandip Gunjavate to Everyone:
+	git --version
+20:43:58 From Arun Kumar to Everyone:
+	What is the path environment while installing GIT?
+20:44:12 From Seeta Chandkote to Everyone:
+	done
+20:44:14 From David. to Everyone:
+	These are basic installations  i dont think anyone would be having problems.
+20:44:32 From Vaibhav Thasale to Everyone:
+	after running git --version download is in progress, yet not started installation
+20:44:37 From K R Ranjan - to Everyone:
+	is it visual studio as deafult or notepad??
+20:45:14 From K R Ranjan - to Everyone:
+	is it visual studio as deafult or notepad??
+20:45:36 From K R Ranjan - to Everyone:
+	for ediotr
+20:45:39 From K R Ranjan - to Everyone:
+	editor
+20:45:40 From Nikita Tupsoundar to Everyone:
+	$ git --version
+	git version 2.47.1.windows.1
+	 I already have an this version.
+20:45:49 From K R Ranjan - to Everyone:
+	ok
+20:46:02 From shishir khandelia to Everyone:
+	account created
+20:46:41 From David. to Everyone:
+	👏👏👏
+20:46:59 From Hitesh Sharma to Everyone:
+	https://github.com/
+20:47:48 From shishir khandelia to Everyone:
+	Reacted to "👏👏👏" with 🎉
+20:47:50 From David. to Everyone:
+	Reacted to "https://github.com/" with 👍
+20:48:13 From Mayur Shah to Everyone:
+	done
+20:48:14 From Vivek Birje to Everyone:
+	Done
+20:48:18 From Vikas Kacholia to Everyone:
+	Done
+20:48:20 From Kush Varshney to Everyone:
+	Done
+20:48:22 From Shadrach Asante to Everyone:
+	done
+20:48:23 From Pankaj Kumar to Everyone:
+	i already have Github
+20:48:24 From Vaddi Rahul to Everyone:
+	done
+20:48:26 From Nalin Prasad to Everyone:
+	Done
+20:48:26 From Apurvaveda D R to Everyone:
+	done
+20:48:49 From Manideep Katakam to Everyone:
+	Done
+20:48:54 From David. to Everyone:
+	It is a must for all Tech personnel.
+20:48:57 From Sathish Kumar P to Everyone:
+	Done
+20:49:06 From Manisha Lakhanpal to Everyone:
+	Done
+20:49:37 From Shaiksubh . to Everyone:
+	done
+20:49:43 From Pawan Vanikar to Everyone:
+	done
+20:50:04 From Manivasagam S to Everyone:
+	👍
+20:50:05 From Ravindra Singh to Everyone:
+	created account
+20:51:05 From David. to Everyone:
+	SCM => Source Code Management
+20:51:50 From David. to Everyone:
+	Git helps to facilate collaboration among team members in code development.
+20:52:58 From Seeta Chandkote to Everyone:
+	done
+20:57:16 From David. to Everyone:
+	Git will give us snapshots of each changes.
+20:57:32 From Vivek Birje to Everyone:
+	Replying to "after running git ..."
+	
+	Restart your Laptop
+21:01:48 From Hitesh Sharma to Everyone:
+	git config --global user.name "Your Name"
+21:02:33 From Hitesh Sharma to Everyone:
+	git config --global user.email "youremail@example.com"
+21:02:34 From Manisha Lakhanpal to Everyone:
+	does it needs to be same user name that we used in github account?
+21:02:40 From Vaddi Rahul to Everyone:
+	Done sir
+21:02:42 From K R Ranjan - to Everyone:
+	inside cmd?
+21:03:01 From Sheshanjan Chityala . to Everyone:
+	is it command promt
+21:03:11 From Sheshanjan Chityala . to Everyone:
+	I missed that thing..
+21:03:16 From K R Ranjan - to Everyone:
+	ok
+21:03:50 From kalpana singh to Everyone:
+	command pls
+21:03:59 From Sheshanjan Chityala . to Everyone:
+	Sir in my sistem github was already installed few days back
+21:04:04 From Vipul Kashiv to Everyone:
+	done
+21:04:06 From Hitesh Sharma to Everyone:
+	git config --global user.name "Hitesh Kumar Sharma"
+21:04:07 From Ravindra Singh to Everyone:
+	git config --global user.name
+	 it returns nothing
+21:04:12 From Sheshanjan Chityala . to Everyone:
+	for some reason I installed it
+21:04:19 From Hitesh Sharma to Everyone:
+	git config --global user.email "hkshitesh@gmail.com"
+21:04:39 From kalpana singh to Everyone:
+	dine
+21:04:47 From Sathish Kumar P to Everyone:
+	yes
+21:04:53 From Pawan Vanikar to Everyone:
+	done
+21:05:05 From Kishore Kumar Sridhara Gopal to Everyone:
+	Yes done
+21:05:14 From Ashisha kumar Dash to Everyone:
+	Done
+21:05:16 From Arun Kumar to Everyone:
+	done
+21:05:20 From Ravindra Singh to Everyone:
+	done
+21:05:26 From Manisha Lakhanpal to Everyone:
+	done
+21:05:40 From Madhan.M Madhan.M to Everyone:
+	Done.
+21:06:25 From Hitesh Sharma to Everyone:
+	https://code.visualstudio.com/download
+21:06:35 From Shadrach Asante to Everyone:
+	please can yoy
+21:06:43 From Krishna Kishore to Everyone:
+	I have enrolled in the DevOps Master program. Will it cover all the tools you mentioned in diagram, or should I enroll in other programs individually to access specific courses?
+21:07:17 From Sheshanjan Chityala . to Everyone:
+	Sir Can you help me with the commands..
+21:07:18 From Krishna Kishore to Everyone:
+	Thank you.
+21:07:23 From Shadrach Asante to Everyone:
+	please can you share the two parameters?
+21:07:24 From Nikita Tupsoundar to Everyone:
+	what is use of above two command?
+21:07:31 From Yusufmcse1 Yusufmcse1 to Everyone:
+	Reacted to "I have enrolled in..." with ➕
+21:07:53 From Mounica Sunkara to Everyone:
+	Git hub config is already present in my system with my employee ID, will that be ok or should i configure a new one?
+21:08:02 From Vivek Birje to Everyone:
+	Reacted to "I have enrolled in..." with ➕
+21:08:04 From Vivek Birje to Everyone:
+	Removed a ➕ from "I have enrolled in..."
+21:08:23 From Nikita Tupsoundar to Everyone:
+	Thank You
+21:08:26 From Anusha N to Everyone:
+	Reacted to "I have enrolled in..." with ➕
+21:08:28 From Luke Krangar to Hitesh Sharma(direct message):
+	Hi Dr. Smarma, I'm yet to install Git and GitHub. I checked my Mac Terminal but I don't already have it
+21:08:30 From Anusha N to Everyone:
+	Removed a ➕ from "I have enrolled in..."
+21:34:30 From David. to Everyone:
+	Back
+21:37:49 From Ravindra Singh to Everyone:
+	back
+21:38:01 From Pankaj Kumar to Everyone:
+	back
+21:38:11 From Pawan Vanikar to Everyone:
+	back
+21:39:00 From SHAIK RIZAKATH ALI to Everyone:
+	back
+21:39:40 From Shivam Singh to Everyone:
+	back
+21:42:16 From Md Abu Nasar to Everyone:
+	can we get record if i need to see it again?
+21:42:41 From Md Abu Nasar to Everyone:
+	ok sir thaks
+21:42:56 From David. to Everyone:
+	It needs to be trackable by git
+21:42:59 From David. to Everyone:
+	git init
+21:43:12 From David. to Everyone:
+	ok
+21:43:13 From Manoj S to Everyone:
+	What is version control system?
+22:04:15 From Ravindra Singh to Everyone:
+	pls scroll editor littile bit up.... commands  are not visiable as its at the end of editor
+22:05:09 From Vaibhav Thasale to Everyone:
+	git status returns main branch for me instead of master
+22:08:17 From Naveen narayan to Everyone:
+	can you please explain diff between main and master ?
+22:08:43 From Naveen narayan to Everyone:
+	ok
+22:09:02 From shishir khandelia to Everyone:
+	so if I delete line 5-7, we would be able to restore the file in this project file. correct?
+22:09:42 From shishir khandelia to Everyone:
+	okay. Thank you
+22:11:14 From Sheshanjan Chityala . to Everyone:
+	git log
+22:11:14 From Mayur Shah to Everyone:
+	git log
+22:11:14 From Madhan.M Madhan.M to Everyone:
+	Git loh
+22:11:15 From Manisha Lakhanpal to Everyone:
+	git init
+22:11:16 From Sameer.shembavnekar . to Everyone:
+	git log
+22:11:16 From kalpana singh to Everyone:
+	git log
+22:11:17 From Lakshay Grover to Everyone:
+	git log
+22:11:17 From SANJEEV KUMAR to Everyone:
+	git log
+22:11:17 From Akash Kumar to Everyone:
+	git log
+22:11:18 From David. to Everyone:
+	git rm --cached
+22:11:18 From Vaddi Rahul to Everyone:
+	git log
+22:11:19 From Anirudha Kulkarni to Everyone:
+	log
+22:11:19 From Baskaran Batmanabane to Everyone:
+	git rm
+22:11:19 From Krishnakanth Anasala to Everyone:
+	git log
+22:11:20 From Sameer.shembavnekar . to Everyone:
+	git status
+22:11:22 From shishir khandelia to Everyone:
+	git status
+22:11:23 From Abhishek kadam to Everyone:
+	git log
+22:11:24 From K R Ranjan - to Everyone:
+	config -username and email
+22:11:24 From Shadrach Asante to Everyone:
+	git log
+22:11:25 From Manisha Lakhanpal to Everyone:
+	git rm
+22:11:26 From Dhanush KR to Everyone:
+	git log
+22:11:27 From Sathish Kumar P to Everyone:
+	git log
+	git rm
+22:11:27 From Krishnakanth Anasala to Everyone:
+	git rm
+22:11:27 From Pawan Vanikar to Everyone:
+	git rm --cached filename
+22:11:32 From SANJEEV KUMAR to Everyone:
+	git init
+22:11:32 From Himani Pandey to Everyone:
+	git rm --chached <file>
+22:12:12 From Anirudha Kulkarni to Everyone:
+	If we revert back changes will that be reflecting same in VS Code?
+22:13:18 From Vaibhav Thasale to Everyone:
+	what will be usually commit comments to be followed or it is totally depend on us? I mean any comment is fine ..
+22:14:24 From kalpana singh to Everyone:
+	how we are goin to put code  in github .. online
+22:14:35 From kalpana singh to Everyone:
+	ok
+22:16:12 From David. to Everyone:
+	and it will give a commit ID as well
+22:23:22 From Nithin Kundukattil to Everyone:
+	/?how to get the commit id's if we have closed the terminal
+22:23:35 From SANJEEV KUMAR to Everyone:
+	what to do if we get merge conflict?
+22:23:37 From Kalyan Majeti to Everyone:
+	commands pls sir
+22:23:41 From Shajad Ali Shaikh Kamruddin to Everyone:
+	how can I go back to v1 (from v3)
+22:24:19 From Ravindra Singh to Everyone:
+	This is for standalone machine, how if two developers are using same code file? will it ask to merge a code before commit?
+22:24:27 From Sameer.shembavnekar . to Everyone:
+	After download and install the vcs in windows  how to view the vcs in folder?
+22:24:30 From Anirudha Kulkarni to Everyone:
+	Do we need to have VS Code only or we can work with Eclipse as well?
+22:24:51 From Akash Kumar to Everyone:
+	unix command was not visible. could you pls show or also will it be shared later.
+22:24:58 From Vaibhav Thasale to Everyone:
+	Thank you
+22:25:12 From Vipul Kashiv to Everyone:
+	we can also manage this with UI (user interface) why we use command and what is the defference between them .. ?
+22:26:24 From Ravindra Singh to Everyone:
+	ok
+22:26:46 From Yusufmcse1 Yusufmcse1 to Everyone:
+	Removed a ➕ from "I have enrolled in..."
+22:27:07 From SANJEEV KUMAR to Everyone:
+	Ok . thank you.  Actually I was parrallely doing now so I got merge conflict while reverting. So, I asked question but no problem once we are into that topic maybe doubt will be cleared .
+22:29:03 From Vipul Kashiv to Everyone:
+	ok sure
+22:29:10 From Akash Kumar to Everyone:
+	I was asking about the GIT command written after revert.
+22:29:41 From David. to Everyone:
+	git log --oneline   command can help shorten the output of git log
+22:29:44 From SANJEEV KUMAR to Everyone:
+	ok thank you
+22:30:31 From Vaibhav Thasale to Everyone:
+	sometime head shows incorrectly using git bash however it shows head correct on cmd 
+	is this a known one?
+22:30:37 From Mohan Kumar S to Everyone:
+	I actually joined late. so Can I do all these after seeing the Stored Video tomorrow morning pls?
+22:31:00 From Mohan Kumar S to Everyone:
+	byt when can thr recording be availabel tomorow? pls?
+22:32:34 From David. to Everyone:
+	git init
+22:32:35 From SANJEEV KUMAR to Everyone:
+	git init
+22:32:37 From Sameer.shembavnekar . to Everyone:
+	git init
+22:32:37 From Pawan Vanikar to Everyone:
+	git init
+22:32:38 From Vaibhav Thasale to Everyone:
+	git init
+22:32:40 From Manisha Lakhanpal to Everyone:
+	GIT init
+22:32:42 From Manoj S to Everyone:
+	git init
+22:32:44 From Madhan.M Madhan.M to Everyone:
+	Git init
+22:32:46 From Shivam Singh to Everyone:
+	Reacted to "git init" with 👍
+22:33:38 From David. to Everyone:
+	a working area
+22:33:48 From Seeta Chandkote to Everyone:
+	i open git base should i make file inside
+22:34:03 From kalpana singh to Everyone:
+	i am able to see master branch after git init but no git folder
+22:34:19 From Madhan.M Madhan.M to Everyone:
+	Not able to open the my folder in VS code sir is there any option to open the file which i have created now?
+22:34:19 From Seeta Chandkote to Everyone:
+	windos
+22:34:30 From kalpana singh to Everyone:
+	ok
+22:34:31 From Seeta Chandkote to Everyone:
+	windows
+22:34:46 From kalpana singh to Everyone:
+	thanks
+22:35:11 From David. to Everyone:
+	Avoid touching the .git folder.
+22:35:43 From David. to Everyone:
+	or just use code . in your bash to open your VSCode
+22:36:07 From Mayur Shah to Everyone:
+	in address bar type in "code ."
+22:36:09 From Madhan.M Madhan.M to Everyone:
+	Okay sir thank you!
+22:37:40 From sam Jeba Kumar to Everyone:
+	sir can  u tell once more how to open vscode
+22:38:16 From Hitesh Sharma to Everyone:
+	int sum(int a, int b) 	{	    return a + b;	}
+22:40:10 From Hitesh Sharma to Everyone:
+	git init	git status	git add .	git commit -m "message"	git log
+22:40:47 From Ashisha kumar Dash to Everyone:
+	👍
+22:40:48 From David. to Everyone:
+	Yes
+22:40:49 From Sathish Kumar P to Everyone:
+	👍
+22:40:50 From Vivek Birje to Everyone:
+	👍
+22:40:51 From Seeta Chandkote to Everyone:
+	yes
+22:40:54 From Sameer.shembavnekar . to Everyone:
+	yes
+22:40:56 From Manisha Lakhanpal to Everyone:
+	yes
+22:40:56 From N Anandha to Everyone:
+	👍🏼
+22:40:57 From Dhanush KR to Everyone:
+	👍
+22:40:57 From SANJEEV KUMAR to Everyone:
+	Actually .vscode is not displaying for me inside the folder.
+22:41:04 From David. to Everyone:
+	Reacted to "Actually .vscode i..." with 👍
+22:41:07 From David. to Everyone:
+	Removed a 👍 from "Actually .vscode i..."
+22:41:09 From Pawan Vanikar to Everyone:
+	yes
+22:41:11 From Vipul Kashiv to Everyone:
+	👍
+22:41:12 From SANJEEV KUMAR to Everyone:
+	ok
+22:41:13 From Vaibhav Thasale to Everyone:
+	I can see colours on mac
+22:41:14 From Akash Kumar to Everyone:
+	👍
+22:41:20 From David. to Everyone:
+	👍
+22:41:23 From SHAIK RIZAKATH ALI to Everyone:
+	👍
+22:41:25 From Manideep Katakam to Everyone:
+	👍
+22:42:00 From Hitesh Sharma to Everyone:
+	git add .
+22:42:09 From Hitesh Sharma to Everyone:
+	git commit -m "sum() added"
+22:42:12 From Manisha Lakhanpal to Everyone:
+	done
+22:42:25 From Anirudha Kulkarni to Everyone:
+	some issue with git add .
+22:42:25 From SHAIK RIZAKATH ALI to Everyone:
+	👍
+22:42:39 From Anirudha Kulkarni to Everyone:
+	not able to see anything
+22:42:44 From Manoj S to Everyone:
+	good
+22:43:01 From Ravindra Singh to Everyone:
+	pace is good
+22:43:14 From Kalyan Majeti to Everyone:
+	pace is good
+22:43:20 From kalpana singh to Everyone:
+	👍
+22:43:23 From Yusufmcse1 Yusufmcse1 to Hitesh Sharma(direct message):
+	Please bit slow
+22:43:24 From Dhanush KR to Everyone:
+	pace is good
+22:43:24 From K R Ranjan - to Everyone:
+	you are perfect!!!!
+22:43:27 From David. to Everyone:
+	The git add . is adding the .vscode files. Is it not better to always do git add <filename>  ?
+22:43:29 From Pawan Vanikar to Everyone:
+	Hello Sir
+	After git add . i didn't get any warning message is that fine?
+22:43:52 From Dhanush KR to Everyone:
+	pls dont go fast than this its correct
+22:44:30 From Kalyan Majeti to Everyone:
+	it will be healpful if you can provide the notes as document
+22:44:39 From David. to Everyone:
+	It is actually just a refresher for me.
+22:44:55 From Kalyan Majeti to Everyone:
+	ok sir
+22:45:05 From Vaibhav Thasale to Everyone:
+	are we done for today?
+22:45:06 From Shadrach Asante to Everyone:
+	please can you go over this last practical session?
+22:45:14 From Vaibhav Thasale to Everyone:
+	ok
+22:45:17 From Sheshanjan Chityala . to Everyone:
+	this is good Sir👍
+22:45:32 From Aman Kamboj to Everyone:
+	👍
+22:45:44 From Vipul Kashiv to Everyone:
+	can you provide step by step document for all sessions . . ??
+22:47:09 From Hitesh Sharma to Everyone:
+	int diff(int a, int b)	{	    return a-b;	}
+22:47:26 From Nikita Tupsoundar to Everyone:
+	how to file revert stagging area to local/working area?
+22:48:23 From Vivek Birje to Everyone:
+	C:\SLearn\git-demo>git revert a15201d9a68e410049cf3cd8166ccc96e79a723c
+	Auto-merging main.py
+	CONFLICT (content): Merge conflict in main.py
+	error: could not revert a15201d... Sub added
+	hint: After resolving the conflicts, mark them with
+	hint: "git add/rm <pathspec>", then run
+	hint: "git revert --continue".
+	hint: You can instead skip this commit with "git revert --skip".
+	hint: To abort and get back to the state before "git revert",
+	hint: run "git revert --abort".
+	hint: Disable this message with "git config advice.mergeConflict false"
+22:48:52 From Vivek Birje to Everyone:
+	I am getting above msg in revert
+22:49:44 From Vivek Birje to Everyone:
+	Ok
+22:50:14 From Vaibhav Thasale to Everyone:
+	terminal is not showing branch head, is there any cmd to check current head ?
+22:50:55 From Akash Kumar to Everyone:
+	m1.c
+22:50:56 From Nitin Galale to Everyone:
+	only 1 m1.c
+22:50:56 From Madhan.M Madhan.M to Everyone:
+	1 file
+22:50:57 From Baskaran Batmanabane to Everyone:
+	only one file
+22:50:59 From Sathish Kumar P to Everyone:
+	1 file
+22:51:00 From Pawan Vanikar to Everyone:
+	one file m1.c
+22:51:00 From Madhan.M Madhan.M to Everyone:
+	m1.c
+22:51:28 From Mayur Shah to Everyone:
+	how to revert the changes in only one specific file out of 2(for ex)
+22:52:07 From Sameer.shembavnekar . to Everyone:
+	Is it git revert c1?
+22:52:07 From Naveen narayan to Everyone:
+	how is revert different from rm commnad?
+22:55:47 From SANJEEV KUMAR to Everyone:
+	git log
+22:55:47 From Naveen narayan to Everyone:
+	git-log
+22:55:47 From Baskaran Batmanabane to Everyone:
+	git log
+22:55:49 From Anusha N to Everyone:
+	git log
+22:55:50 From kalpana singh to Everyone:
+	git log
+22:55:51 From Vivek Birje to Everyone:
+	git log
+22:55:52 From Abhishek kadam to Everyone:
+	git log
+22:55:56 From Sathish Kumar P to Everyone:
+	git log
+22:55:59 From Vaibhav Thasale to Everyone:
+	git log
+22:56:11 From Vipul Kashiv to Everyone:
+	if we run 'git commit -m' only . .
+	then what it happens . .
+22:56:13 From Vipul Kashiv to Everyone:
+	?
+22:57:44 From K R Ranjan - to Everyone:
+	yes
+22:57:45 From Pawan Vanikar to Everyone:
+	yes
+22:57:46 From kalpana singh to Everyone:
+	👍
+22:57:48 From Sathish Kumar P to Everyone:
+	👍
+22:57:48 From Vipul Kashiv to Everyone:
+	👍
+22:57:50 From SANJEEV KUMAR to Everyone:
+	yes
+22:57:51 From David. to Everyone:
+	👍
+22:57:51 From Anusha N to Everyone:
+	👍🏻
+22:57:51 From Vaddi Rahul to Everyone:
+	done
+22:57:51 From Manideep Katakam to Everyone:
+	👍
+22:57:51 From Sameer.shembavnekar . to Everyone:
+	👍
+22:57:53 From Abhishek kadam to Everyone:
+	done
+22:57:54 From Praful Parmar to Everyone:
+	👍
+22:57:54 From K R Ranjan - to Everyone:
+	👍
+22:57:54 From Manisha Lakhanpal to Everyone:
+	👍
+22:58:02 From Manivasagam S to Everyone:
+	👍
+22:58:03 From Ashisha kumar Dash to Everyone:
+	👍
+22:58:05 From Pankaj Kumar to Everyone:
+	done
+22:58:07 From Nitin Galale to Everyone:
+	👍
+22:58:09 From Vaibhav Thasale to Everyone:
+	done
+22:58:23 From Nikita Tupsoundar to Everyone:
+	how to modify  comment in commit ?
+22:58:44 From Praful Parmar to Everyone:
+	git revert commit id
+22:58:49 From David. to Everyone:
+	git revert <hashcode>
+22:58:51 From Manisha Lakhanpal to Everyone:
+	git revert "commit id of c1"
+23:01:24 From Vivek Birje to Everyone:
+	How to update the commit msg?
+23:01:34 From K R Ranjan - to Everyone:
+	error: Reverting is not possible because you have unmerged files.
+23:03:37 From Nithin Kundukattil to Everyone:
+	comitting one file alone (in case of multiple files ) is also possible ? for that  prior to commit of that particular , need to add that one file alone ?
+23:04:23 From David. to Everyone:
+	I think it depends on the changes associated with that commit ID. if the commit was only on one file, it is one file that gets reverted.
+23:04:36 From Nithin Kundukattil to Everyone:
+	ok thanks...
+23:04:49 From Nithin Kundukattil to Everyone:
+	intermediate commits... with specific changes
+23:04:56 From Sheshanjan Chityala . to Everyone:
+	$ git add .
+23:04:57 From Nitin Galale to Everyone:
+	single file
+23:07:54 From Vivek Birje to Everyone:
+	Copy the Folder(with .git)--> Revert the Chnages on new folder --> Take the file from that copy folder to your project. Can we do like this?
+23:08:00 From Nithin Kundukattil to Everyone:
+	adding all and then commits of selective file(having changes) is also possible ?
+23:08:47 From K R Ranjan - to Everyone:
+	Reacted to "Copy the Folder(wi..." with 😮
+23:08:54 From Manisha Lakhanpal to Everyone:
+	Reacted to "Copy the Folder(wi..." with 😮
+23:08:57 From Pawan Vanikar to Everyone:
+	Reacted to "Copy the Folder(wi..." with 😮
+23:08:57 From Akash Kumar to Everyone:
+	Reacted to "Copy the Folder(wi..." with 😮
+23:08:58 From Pawan Vanikar to Everyone:
+	Removed a 😮 from "Copy the Folder(wi..."
+23:08:59 From Akash Kumar to Everyone:
+	Removed a 😮 from "Copy the Folder(wi..."
+23:09:00 From Akash Kumar to Everyone:
+	Reacted to "Copy the Folder(wi..." with 😮
+23:09:02 From Akash Kumar to Everyone:
+	Removed a 😮 from "Copy the Folder(wi..."
+23:09:02 From Manisha Lakhanpal to Everyone:
+	Removed a 😮 from "Copy the Folder(wi..."
+23:09:03 From Manisha Lakhanpal to Everyone:
+	Reacted to "Copy the Folder(wi..." with 😮
+23:09:05 From Manisha Lakhanpal to Everyone:
+	Removed a 😮 from "Copy the Folder(wi..."
+23:09:06 From Manisha Lakhanpal to Everyone:
+	Reacted to "Copy the Folder(wi..." with 😮
+23:09:14 From David. to Everyone:
+	Reacted to "Copy the Folder(wi..." with 😮
+23:09:15 From David. to Everyone:
+	Removed a 😮 from "Copy the Folder(wi..."
+23:09:36 From Vivek Birje to Everyone:
+	Reacted to "Copy the Folder(wi..." with 😮
+23:09:40 From Vivek Birje to Everyone:
+	Removed a 😮 from "Copy the Folder(wi..."
+23:09:45 From Ashisha kumar Dash to Everyone:
+	Reacted to "Copy the Folder(wi..." with 😮
+23:09:47 From Ashisha kumar Dash to Everyone:
+	Removed a 😮 from "Copy the Folder(wi..."
+23:09:56 From Vaibhav Thasale to Everyone:
+	Reacted to "Copy the Folder(wi..." with 😮
+23:10:45 From Sameer.shembavnekar . to Everyone:
+	After revert do we need to add &  commit?
+23:11:12 From Ashisha kumar Dash to Everyone:
+	Reacted to "Copy the Folder(wi..." with 😮
+23:11:13 From Ashisha kumar Dash to Everyone:
+	Removed a 😮 from "Copy the Folder(wi..."
+23:11:44 From Vaibhav Thasale to Everyone:
+	Removed a 😮 from "Copy the Folder(wi..."
+23:11:45 From Vaibhav Thasale to Everyone:
+	Reacted to "Copy the Folder(wi..." with 😮
+23:11:54 From David. to Everyone:
+	Replying to "After revert do we..."
+	
+	No.
+23:12:05 From Vaibhav Thasale to Everyone:
+	Removed a 😮 from "Copy the Folder(wi..."
+23:12:05 From Vaibhav Thasale to Everyone:
+	Reacted to "Copy the Folder(wi..." with 😮
+23:12:08 From David. to Everyone:
+	git stash
+23:12:21 From David. to Everyone:
+	okay
+23:12:29 From Nithin Kundukattil to Everyone:
+	ok thanks sir
+23:13:31 From Sameer.shembavnekar . to Everyone:
+	ok
+23:13:56 From SANJEEV KUMAR to Everyone:
+	revert need to be done for current commit otherwise it gives merge conflict. Is my understanding correct?
+23:14:17 From Nikita Tupsoundar to Everyone:
+	how to change the comment of commit?
+23:15:01 From Nikita Tupsoundar to Everyone:
+	do we need same commit id's for towmorrow session ?
+23:15:07 From Himani Pandey to Everyone:
+	Reacted to "Copy the Folder(wi..." with 😮
+23:15:08 From Himani Pandey to Everyone:
+	Removed a 😮 from "Copy the Folder(wi..."
+23:15:12 From David. to Everyone:
+	Replying to "how to change the ..."
+	
+	git commit --amend
+23:15:28 From David. to Everyone:
+	It is not a good practice
+23:15:50 From Anirudha Kulkarni to Everyone:
+	Yes pls
+23:16:15 From Vikas Kacholia to Everyone:
+	git diff commitid -> to see the difference
+23:17:11 From SANJEEV KUMAR to Everyone:
+	sorry to ask again i am still confused why merged conflict came while reverting. was it because we were reverting the intermediate commit ?
+23:17:17 From Learner success manager to Hitesh Sharma(direct message):
+	https://lms.simplilearn.com/nps/session/672b587de4a6afa4bff3797e/1737208800000/96424826704/zoom
+23:17:38 From Nikita Tupsoundar to Everyone:
+	when session recording will be available?
+23:17:55 From Vivek Birje to Everyone:
+	Reacted to "when session recor..." with 👍
+23:18:02 From David. to Everyone:
+	Sir, If though I have been using Git for years. I got some new insights from your explanations. 
+	
+	Thank you so much.
+23:18:30 From Vikas Kacholia to Everyone:
+	Reacted to "Sir, If though I h..." with ❤️
+23:18:52 From Luke Krangar to Hitesh Sharma(direct message):
+	Dr. Sharma, do you have any previous tools to help us through this course (today's session)?
+23:18:53 From Vikas Kacholia to Everyone:
+	Removed a ❤️ from "Sir, If though I h..."
+23:18:57 From Vikas Kacholia to Everyone:
+	Reacted to "Sir, If though I h..." with 👏
+23:20:58 From kalpana singh to Everyone:
+	are we going to get self learning videos after live classes in LMS portal??
+23:21:08 From Hitesh Sharma to Everyone:
+	https://github.com/hkshitesh/SL-CICD-18-JAN
+23:21:10 From Nikita Tupsoundar to Everyone:
+	I did first commit after creating m1 and i created m2 added the containt in both m1 and m2 did a final commit. so when i revert to 1st commit my m2 file was deleated from vs so what is best practice in such a scenerio?
+23:21:31 From kalpana singh to Everyone:
+	ok
+23:26:07 From Vikas Kacholia to Everyone:
+	we have session on day after tomorrow too ?
+23:26:22 From Mayur Shah to Everyone:
+	I did messed up where reverting the changes impacted 2 files. fixed it by checking the commit id's of individual files by git log filename(s) and then reverted by git checkout commitid filename. This didnt impacted the other file
+23:26:29 From Pawan Vanikar to Everyone:
+	Do we have to do coding in the profile of Devops engg
+23:26:38 From kalpana singh to Everyone:
+	thank you
+23:26:58 From SANJEEV KUMAR to Everyone:
+	it was great session
+23:26:59 From Pawan Vanikar to Everyone:
+	Do we have to do coding in the profile of Devops engg?
+23:27:01 From Mayur Shah to Everyone:
+	thank you so much Sir!!!
+23:27:15 From Nithin Kundukattil to Everyone:
+	Thanks a lot...
+23:27:30 From Vivek Birje to Everyone:
+	Thank You
+23:27:33 From Manoj S to Everyone:
+	TQ
+23:27:34 From Vaibhav Thasale to Everyone:
+	cool
+23:27:43 From Manisha Lakhanpal to Everyone:
+	Thank you
+23:27:49 From Aman Kamboj to Everyone:
+	will there be setup of ci cd with jenkins/sonar session. also containerization?
+23:27:54 From Vaibhav Thasale to Everyone:
+	Thank you
+23:27:58 From Hitesh Sharma to Everyone:
+	https://lms.simplilearn.com/nps/session/672b587de4a6afa4bff3797e/1737208800000/96424826704/zoom
+23:28:01 From Akash Kumar to Everyone:
+	thank you
+23:28:21 From Nalin Prasad to Everyone:
+	Thank you sir
+23:28:46 From K R Ranjan - to Everyone:
+	your teaching methods are just perfect compared to my previous experiences in simplilearn. thanks again!
+23:29:17 From Mohammed Yaseen to Everyone:
+	🙂
+23:29:19 From Vaddi Rahul to Everyone:
+	Thank you for the hands-on
+23:29:21 From Nikita Tupsoundar to Everyone:
+	I did first commit after creating m1 and i created m2 added the containt in both m1 and m2 did a final commit. so when i revert to 1st commit my m2 file was deleated from vs so what is best practice in such a scenerio?
+23:29:24 From Ashisha kumar Dash to Everyone:
+	Thank you
+23:29:30 From Sheshanjan Chityala . to Everyone:
+	Sir a question, Once we commit the file to Stage, will we be able to modify the file withput doing REVERT, by mistake or by any chance!
+23:29:30 From Hitesh Sharma to Everyone:
+	https://lms.simplilearn.com/nps/session/672b587de4a6afa4bff3797e/1737208800000/96424826704/zoom
+23:29:30 From SANJEEV KUMAR to Everyone:
+	thank you very much. I used to tool git extension for doing all these. Today learnt git command via git bash. learnt new things related to git
+23:29:36 From Pankaj Kumar to Everyone:
+	Reacted to "https://lms.simpli..." with 👍
+23:29:39 From Yusufmcse1 Yusufmcse1 to Everyone:
+	thanks for the session sir
+23:29:40 From Krishna Kishore to Hitesh Sharma(direct message):
+	Can we capture chat windown also?
+23:29:41 From Sathish Kumar P to Everyone:
+	Thank you very much Hitesh.
+23:29:54 From Krishnakanth Anasala to Everyone:
+	Lab credentials to login to the lab
+23:30:14 From Krishnakanth Anasala to Everyone:
+	Thank you for the session
+23:30:15 From Luke Krangar to Hitesh Sharma(direct message):
+	Dr. Sharma, you're an excellent instructor with a step-by-step methodology of teaching. Thank you!
+23:30:21 From Kishore Kumar Sridhara Gopal to Everyone:
+	Thank you for the nice session Hitesh
+23:30:49 From Anusha N to Everyone:
+	Thank you sir
+23:30:51 From Pawan Vanikar to Everyone:
+	Do we have to do coding in the profile of Devops engg?
+23:31:07 From Mohan Kumar S to Everyone:
+	hi Can you just guide me once how to aces video pls?
+23:31:08 From Pawan Vanikar to Everyone:
+	Okay sir Thankyou
+23:31:21 From Yusufmcse1 Yusufmcse1 to Everyone:
+	how many time we can use this lab?
+23:31:24 From Aman Kamboj to Everyone:
+	nice session
+23:32:44 From Ruchi Yadav to Everyone:
+	I was not able join the starting of the class due to some error. If I go through the recorded session and get stuck somewhere, can we have QnA tomorrow?
+23:32:54 From Mohan Kumar S to Everyone:
+	yes
+23:32:58 From Mohan Kumar S to Everyone:
+	i got he access
+23:33:08 From Mohan Kumar S to Everyone:
+	yes I see it
+23:33:14 From Mohan Kumar S to Everyone:
+	ok great thans
+23:33:47 From Vaibhav Thasale to Everyone:
+	after reverting to c1 can I revert back to c3?
+23:34:03 From Vaibhav Thasale to Everyone:
+	ok
+23:34:07 From Sheshanjan Chityala . to Everyone:
+	A question, Once we commit the file to Stage, will we be able to modify the file withput doing REVERT, by mistake or by any chance!
+23:34:59 From SANJEEV KUMAR to Everyone:
+	actually i am still confused why merged conflict came while reverting. was it because we were reverting the intermediate commit instead of latest commit?
+23:35:29 From Sheshanjan Chityala . to Everyone:
+	I mean after we push from code to build
+23:37:04 From SANJEEV KUMAR to Everyone:
+	ok thank you
+23:37:19 From SANJEEV KUMAR to Everyone:
+	thank you for great session
+23:37:55 From Ruchi Yadav to Everyone:
+	Thank You sir.
+23:37:56 From Sameer.shembavnekar . to Everyone:
+	thanks sir
+23:37:58 From SHAIK RIZAKATH ALI to Everyone:
+	thank you
+23:38:03 From Vaibhav Thasale to Everyone:
+	Thank you so much
+23:38:07 From Mohan Kumar S to Everyone:
+	hi
+23:38:10 From SANJEEV KUMAR to Everyone:
+	thank you good night
+23:38:10 From Mohan Kumar S to Everyone:
+	one more thing
+23:38:19 From Krishna Kishore to Hitesh Sharma(direct message):
+	Is it possiable to save current chat?
+23:38:19 From Mohan Kumar S to Everyone:
+	whiel I do the folder creationa dn
+23:38:27 From Mohan Kumar S to Everyone:
+	config tuf can soem body help me
