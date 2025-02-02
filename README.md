@@ -9,3 +9,9 @@
 3. Run Jenkins in Docker (in simplilearn VM)
    
    docker run -p 8081:8080 jenkins/jenkins:lts
+
+## Jenkins CICD Pipelien Plugins
+1. Pipeline
+2. Pipeline: Stage View
+3. Pipeline: Build Steps
+4. Pipeline; Basic View
